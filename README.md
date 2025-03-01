@@ -46,7 +46,7 @@ The dataset contains multiple attributes related to customer activity, including
 - Recharge patterns
 - Customer demographics
 
-📌 **Data Dictionary**: [Download Here](#)
+📌 **Data Dictionary**: [Download Here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcdn.upgrad.com%2FUpGrad%2Ftemp%2Fa625d1ee-b8d7-4edb-bdde-b1d82beaf5b4%2FData%2BDictionary-%2BTelecom%2BChurn%2BCase%2BStudy.xlsx&wdOrigin=BROWSELINK)
 
 ## 🛠️ Data Preparation Steps
 

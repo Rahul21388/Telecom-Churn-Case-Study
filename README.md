@@ -98,5 +98,3 @@ The project involves building **predictive models** to identify customers likely
 By leveraging machine learning, this project aims to **predict churn effectively and reduce revenue loss** by proactively retaining high-value customers.
 
 ---
-
-## 🔗 Repository Structure
